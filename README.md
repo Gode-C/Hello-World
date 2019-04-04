@@ -1,7 +1,7 @@
 # Hello-World
 
 This Git account are currently inactive:octocat:
-
+please reference to https://github.umn.edu/chen3736/
 
 
 ### TODO list:
@@ -9,4 +9,5 @@ This Git account are currently inactive:octocat:
 - [x] Stay alive 2015
 - [x] Stay alive 2016
 - [x] Stay alive 2017
-- [ ] Stay alive 2018
+- [x] Stay alive 2018
+- [x] Stay alive 2019
